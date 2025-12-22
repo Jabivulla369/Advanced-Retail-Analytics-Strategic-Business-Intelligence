@@ -80,4 +80,5 @@ To move beyond basic reporting, the project utilizes complex SQL window function
 * **Conditional Logic:** Complex `CASE` statements for dynamic data segmentation.
 * **Date Engineering:** `DATETRUNC`, `DATEDIFF`, and `FORMAT` for time-series intelligence.
 
+<img width="947" height="294" alt="Advanced Analytics" src="https://github.com/user-attachments/assets/a59d4ad8-abcf-4632-8775-88d08cb63d0c" />
 
