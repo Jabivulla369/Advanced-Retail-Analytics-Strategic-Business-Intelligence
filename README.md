@@ -3,6 +3,8 @@ An end-to-end data analytics project focused on performing advanced SQL analysis
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ---
 
+_**This project is now consolidated under Enterprise-Retail-Performance-Analytics.**_
+
 # Project Title: Advanced Retail Analytics & Strategic Business Intelligence
 
 **Domain:** E-Commerce / Global Retail
